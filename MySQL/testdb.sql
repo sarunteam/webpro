@@ -40,10 +40,7 @@ INSERT INTO `answer` (`idq`, `answer`) VALUES
 (1, 'Sarun'),
 (2, 'freetime'),
 (2, 'freetime'),
-(2, ''),
 (4, 'Phanna is a girl'),
-(4, ''),
-(4, '');
 
 -- --------------------------------------------------------
 
